@@ -4,28 +4,28 @@ import { Link } from "react-router-dom";
 const data = [
   {
     id: 1,
-    src: "/inquiry_img.jpg",
+    src: "/Maagad-HSI-Engage/inquiry_img.jpg",
     content: "I want to make ",
     title: "an inquiry",
     path: "/Maagad-HSI-Engage/inquiry",
   },
   {
     id: 2,
-    src: "/feeedback.png",
+    src: "/Maagad-HSI-Engage/feeedback.png",
     content: "I want to give ",
     title: "feedback",
     path: "/Maagad-HSI-Engage/feedback",
   },
   {
     id: 3,
-    src: "/project_marketing.jpg",
+    src: "/Maagad-HSI-Engage/project_marketing.jpg",
     content: "I want to check ",
     title: "on my project",
     path: "/Maagad-HSI-Engage/project",
   },
   {
     id: 4,
-    src: "/typewriter.jpg",
+    src: "/Maagad-HSI-Engage/typewriter.jpg",
     content: "I want to know more about ",
     title: "highly succeed",
     path: "/Maagad-HSI-Engage/about",
