@@ -14,7 +14,7 @@ function App() {
     <main className="min-h-screen w-full flex flex-col items-center bg-[#f8fafb]">
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Homepage />} />
+          <Route path="/Maagad-HSI-Engage" element={<Homepage />} />
           <Route path="about" element={<NewsAndBlog />} />
           <Route path="blogs" element={<BlogsAndEvent />} />
           <Route path="blog-details/:id" element={<BlogDetails />} />
