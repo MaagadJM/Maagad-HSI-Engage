@@ -40,13 +40,13 @@ const NewsAndBlog = () => {
                 </section>
                 <section className="flex flex-col text-sm gap-2 justify-center mt-4 w-full">
                   <Link
-                    to="/blogs"
+                    to="/Maagad-HSI-Engage/blogs"
                     className="bg-[#f8ebebb0] hover:bg-[#eec511] hover:text-white w-fit 2xl:w-[300px] 2xl:h-20 2xl:text-2xl 2xl:flex 2xl:items-center 2xl:justify-center py-3 px-6 rounded-lg text-[#a79431] font-semibold"
                   >
                     View News & Blogs
                   </Link>
                   <Link
-                    to="/blogs"
+                    to="/Maagad-HSI-Engage/blogs"
                     className="bg-[#f8ebebb0] hover:bg-[#eec511]  hover:text-white w-fit py-3 2xl:w-[300px] 2xl:h-20 2xl:text-2xl 2xl:flex 2xl:items-center 2xl:justify-center  px-6 rounded-lg text-[#a79431] font-semibold"
                   >
                     View Our Products

@@ -15,14 +15,14 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/Maagad-HSI-Engage" element={<Homepage />} />
-          <Route path="about" element={<NewsAndBlog />} />
-          <Route path="blogs" element={<BlogsAndEvent />} />
-          <Route path="blog-details/:id" element={<BlogDetails />} />
-          <Route path="inquiry" element={<Inquiry />} />
-          <Route path="feedback" element={<Feedback />}>
+          <Route path="/Maagad-HSI-Engage/about" element={<NewsAndBlog />} />
+          <Route path="/Maagad-HSI-Engage/blogs" element={<BlogsAndEvent />} />
+          <Route path="/Maagad-HSI-Engage/blog-details/:id" element={<BlogDetails />} />
+          <Route path="/Maagad-HSI-Engage/inquiry" element={<Inquiry />} />
+          <Route path="/Maagad-HSI-Engage/feedback" element={<Feedback />}>
             <Route path="form" element={<SurveyForm />} />
           </Route>
-          <Route path="project" element={<Project />} />
+          <Route path="/Maagad-HSI-Engage/project" element={<Project />} />
           <Route path="login" element={<ProjectLogin />} />
         </Routes>
       </BrowserRouter>

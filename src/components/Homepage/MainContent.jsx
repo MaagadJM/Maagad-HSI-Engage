@@ -7,28 +7,28 @@ const data = [
     src: "/inquiry_img.jpg",
     content: "I want to make ",
     title: "an inquiry",
-    path: "/inquiry",
+    path: "/Maagad-HSI-Engage/inquiry",
   },
   {
     id: 2,
     src: "/feeedback.png",
     content: "I want to give ",
     title: "feedback",
-    path: "/feedback",
+    path: "/Maagad-HSI-Engage/feedback",
   },
   {
     id: 3,
     src: "/project_marketing.jpg",
     content: "I want to check ",
     title: "on my project",
-    path: "/project",
+    path: "/Maagad-HSI-Engage/project",
   },
   {
     id: 4,
     src: "/typewriter.jpg",
     content: "I want to know more about ",
     title: "highly succeed",
-    path: "/about",
+    path: "/Maagad-HSI-Engage/about",
   },
 ];
 const MainContent = () => {

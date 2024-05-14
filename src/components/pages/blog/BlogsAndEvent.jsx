@@ -28,7 +28,7 @@ const BlogsAndEvent = () => {
           <section className="grid lg:grid-cols-3 md:grid-cols-2 gap-10 w-full mt-5 max-lg:h-auto">
             {data.map(item => {
               return (
-                <Link key={item.id} to={`/blog-details/${item.id}`}>
+                <Link key={item.id} to={`/Maagad-HSI-Engage/blog-details/${item.id}`}>
                   <section className="relative w-full text-white  h-[250px] 2xl:h-[400px]  cursor-pointer ">
                     <img
                       src={item.src}
@@ -61,41 +61,41 @@ const data = [
     src: "/image 1.jpg",
     content: "Blog Title ",
     title: "an inquiry",
-    path: "/blog-details",
+    path: "/Maagad-HSI-Engage/blog-details",
   },
   {
     id: 2,
     src: "/image 2.jpg",
     content: "Blog Title ",
     title: "feedback",
-    path: "/blog-details",
+    path: "/Maagad-HSI-Engage/blog-details",
   },
   {
     id: 3,
     src: "/image 3.jpg",
     content: "Blog Title ",
     title: "on my project",
-    path: "/blog-details",
+    path: "/Maagad-HSI-Engage/blog-details",
   },
   {
     id: 4,
     src: "/image 4.jpg",
     content: "Blog Title ",
     title: "highly succeed",
-    path: "/blog-details",
+    path: "/Maagad-HSI-Engage/blog-details",
   },
   {
     id: 5,
     src: "/image 5.jpg",
     content: "Blog Title ",
     title: "highly succeed",
-    path: "/blog-details",
+    path: "/Maagad-HSI-Engage/blog-details",
   },
   {
     id: 6,
     src: "/image 6.jpg",
     content: "Blog Title ",
     title: "highly succeed",
-    path: "/blog-details",
+    path: "/Maagad-HSI-Engage/blog-details",
   },
 ];
