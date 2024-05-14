@@ -1,26 +1,26 @@
 export const services = [
   {
     id: 1,
-    imagePath: "/services/multimedia.PNG"
+    imagePath: "/Maagad-HSI-Engage/services/multimedia.PNG"
   },
   {
     id: 2,
-    imagePath: "/services/mobile-dev.PNG"
+    imagePath: "/Maagad-HSI-Engage/services/mobile-dev.PNG"
   },
   {
     id: 3,
-    imagePath: "/services/web-dev.PNG"
+    imagePath: "/Maagad-HSI-Engage/services/web-dev.PNG"
   },
   {
     id: 4,
-    imagePath: "/services/digital-marketing.PNG"
+    imagePath: "/Maagad-HSI-Engage/services/digital-marketing.PNG"
   },
   {
     id: 5,
-    imagePath: "/services/cloud-migration.PNG"
+    imagePath: "/Maagad-HSI-Engage/services/cloud-migration.PNG"
   },
   {
     id: 6,
-    imagePath: "/services/office-365.PNG"
+    imagePath: "/Maagad-HSI-Engage/services/office-365.PNG"
   }
 ]
