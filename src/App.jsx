@@ -23,7 +23,7 @@ function App() {
             <Route path="form" element={<SurveyForm />} />
           </Route>
           <Route path="/Maagad-HSI-Engage/project" element={<Project />} />
-          <Route path="login" element={<ProjectLogin />} />
+          <Route path="/Maagad-HSI-Engage/login" element={<ProjectLogin />} />
         </Routes>
       </BrowserRouter>
     </main>

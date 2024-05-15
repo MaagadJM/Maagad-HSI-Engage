@@ -35,7 +35,7 @@ const Project = () => {
                   <span className="text-yellow-500 block font-bold">System</span>
                 </h1>
               </section>
-              <Link to="/login" className="bg-[#FBEFF0] text-base 2xl:text-xl text-[#A8861F] rounded-lg py-2 px-6 mt-6 lg:mt-12 md:mx-0 w-fit">
+              <Link to="/Maagad-HSI-Engage/login" className="bg-[#FBEFF0] text-base 2xl:text-xl text-[#A8861F] rounded-lg py-2 px-6 mt-6 lg:mt-12 md:mx-0 w-fit">
                 View System
               </Link>
             </section>
