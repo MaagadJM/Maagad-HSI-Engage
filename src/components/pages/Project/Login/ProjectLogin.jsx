@@ -4,6 +4,8 @@ import "aos/dist/aos.css";
 import { MdOutlineKeyboardArrowLeft } from "react-icons/md";
 import { Link } from "react-router-dom";
 
+import HSI_Logo from "../../../../assets/HSI_Logo.png";
+
 const ProjectLogin = () => {
 
   useEffect(() => {
@@ -28,9 +30,9 @@ const ProjectLogin = () => {
         <div className="grid content-between place-items-center bg-white rounded-md h-[500px] xs:h-[530px] w-[22rem] xs:w-[23rem] p-6">
           <div className="w-[10rem] ">
             <img
-              src="/HSI_LOGO.png"
+              src={HSI_Logo}
               alt="HSI logo"
-              className="w-full h-auto"
+              className="w-full h-auto mt-2"
             />
           </div>
 
