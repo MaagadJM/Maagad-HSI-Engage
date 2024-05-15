@@ -7,7 +7,7 @@ import {
   FaInstagram,
   FaLinkedin,
 } from "react-icons/fa";
-import HSIlogo from "/Maagad-HSI-Engage/HSI_Logo.png";
+import HSIlogo from "../../assets/HSI_Logo.png";
 
 const navigation = [
   { icon: <FaFacebookSquare />, href: "https://facebook.com", current: false },
