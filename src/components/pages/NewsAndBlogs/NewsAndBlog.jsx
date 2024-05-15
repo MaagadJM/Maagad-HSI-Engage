@@ -59,7 +59,7 @@ const NewsAndBlog = () => {
           <section className=" flex items-center justify-center ">
             <section className="w-[40rem] 2xl:w-[40rem] h-auto max-lg:w-full ">
               <img
-                src="/img-circle.PNG"
+                src="/Maagad-HSI-Engage/img-circle.PNG"
                 alt="presentation"
                 className="w-full h-full rounded-xl"
               />

@@ -44,7 +44,7 @@ const Project = () => {
 
         <section className="flex items-center justify-center">
           <section className="w-[90%] md:w-[80%] 2xl:w-[40rem] h-auto ">
-            <img src="/img-circle.PNG" alt="presentation" className="w-full h-full rounded-xl" />
+            <img src="/Maagad-HSI-Engage/img-circle.PNG" alt="presentation" className="w-full h-full rounded-xl" />
           </section>
         </section>
       </section>

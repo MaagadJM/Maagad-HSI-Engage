@@ -1,74 +1,74 @@
 export const products = [
   {
     id: 1,
-    imagePath: "/products/krops.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/krops.PNG"
   },
   {
     id: 2,
-    imagePath: "/products/cityserv.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/cityserv.PNG"
   },
   {
     id: 3,
-    imagePath: "/products/yogilab.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/yogilab.PNG"
   },
   {
     id: 4,
-    imagePath: "/products/mentorme.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/mentorme.PNG"
   },
   {
     id: 5,
-    imagePath: "/products/lyka.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/lyka.PNG"
   },
   {
     id: 6,
-    imagePath: "/products/taskit.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/taskit.PNG"
   },
   {
     id: 7,
-    imagePath: "/products/onelog.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/onelog.PNG"
   },
   {
     id: 8,
-    imagePath: "/products/endingapp.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/endingapp.PNG"
   },
   {
     id: 9,
-    imagePath: "/products/marked.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/marked.PNG"
   },
   {
     id: 10,
-    imagePath: "/products/commongrnd.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/commongrnd.PNG"
   },
   {
     id: 11,
-    imagePath: "/products/sopstar.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/sopstar.PNG"
   },
   {
     id: 12,
-    imagePath: "/products/solidgmng.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/solidgmng.PNG"
   },
   {
     id: 13,
-    imagePath: "/products/queing.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/queing.PNG"
   },
   {
     id: 14,
-    imagePath: "/products/pinasaya.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/pinasaya.PNG"
   },
   {
     id: 15,
-    imagePath: "/products/apec.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/apec.PNG"
   },
   {
     id: 16,
-    imagePath: "/products/stratus.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/stratus.PNG"
   },
   {
     id: 17,
-    imagePath: "/products/rekados.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/rekados.PNG"
   },
   {
     id: 18,
-    imagePath: "/products/fridays.PNG"
+    imagePath: "/Maagad-HSI-Engage/products/fridays.PNG"
   },
 ]
