@@ -25,7 +25,7 @@ const BlogsAndEvent = () => {
           <h1 className="uppercase text-lg  tracking-widest font-semibold">
             Blogs & <b className="text-[#9f8102]"> Events</b>
           </h1>
-          <section className="grid lg:grid-cols-3 md:grid-cols-2 gap-10 w-full mt-5 max-lg:h-auto">
+          <section className="grid lg:grid-cols-3 md:grid-cols-2 gap-10 w-full mt-5 mb-4 max-lg:h-auto">
             {data.map(item => {
               return (
                 <Link key={item.id} to={`/Maagad-HSI-Engage/blog-details/${item.id}`}>
@@ -45,8 +45,9 @@ const BlogsAndEvent = () => {
                 </Link>
               );
             })}
-            <RFooter />
+            {/* <RFooter /> */}
           </section>
+          <RFooter />
         </section>
       </section>
     </section>

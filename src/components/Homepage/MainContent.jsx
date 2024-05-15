@@ -36,12 +36,12 @@ const MainContent = () => {
     <>
       <section className="flex flex-col space-y-6  h-auto relative">
         <section className="absolute -left-48 top-1/2">
-          <h1 className="font-semibold -rotate-90 uppercase tracking-widest text-gray-400">
+          <span className="absolute text-xl -rotate-90 uppercase tracking-widest text-nowrap text-gray-400">
             Connect with us
-          </h1>
+          </span>
         </section>
-        <h1 className="text-xl text-center">
-          HOW CAN WE BE OF <b className="text-[#b79d3f]"> ASSISTANCE? </b>
+        <h1 className="text-xl text-center text-gray-600">
+          HOW CAN WE BE OF <b className="text-[#e4b61a]"> ASSISTANCE? </b>
         </h1>
         <section className="grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1 gap-10 lg:h-[400px]  2xl:h-[550px]">
           {data.map(item => {
