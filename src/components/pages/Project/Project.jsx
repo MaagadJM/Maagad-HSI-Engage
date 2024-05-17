@@ -19,7 +19,7 @@ const Project = () => {
       </div> */}
       <section className="lg:grid lg:grid-cols-2 max-lg:flex max-lg:flex-col-reverse my-auto h-auto">
         <section className="flex relative">
-          <section className="absolute -left-40 top-1/2">
+          <section className="absolute -left-32 top-1/2">
             <h1 className="font-semibold -rotate-90 uppercase tracking-widest">CRM Portal</h1>
           </section>
           <section className="flex items-center">

@@ -1,7 +1,7 @@
 const RFooter = () => {
   return (
     <footer className="font-semibold mt-auto mb-10 flex justify-between pt-4">
-      <section>@ Highly Succeed Inc. 2019</section>
+      <section>@ Highly Succeed Inc. 2024</section>
 
       <section>
         Designed by:{" "}

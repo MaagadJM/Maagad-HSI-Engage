@@ -9,18 +9,18 @@ const RHeader = ({ textColor = "text-black" }) => {
   const navigate = useNavigate();
 
   return (
-    <header className="  text-2xl  flex items-center mt-10 w-[98%]  font-serif justify-between">
+    <header className="  text-2xl  flex items-center mt-14 w-[98%]  font-serif justify-between">
       <button
         onClick={() => navigate(-1)}
         className="flex items-center uppercase "
       >
-        <MdOutlineKeyboardArrowLeft className="text-2xl mt-1" />
+        <MdOutlineKeyboardArrowLeft className="text-2xl mt-0.5" />
         <p className="text-lg font-sans">
           Go <span className={`font-bold ${textColor}`}>Back</span>
         </p>
       </button>
 
-      <section className=" flex gap-7 cursor-pointer ">
+      <section className=" flex gap-7 cursor-pointer text-gray-600">
         <a href="https://www.facebook.com/Highly.Succeed.Inc" target="_blank">
           <IoLogoFacebook />
         </a>

@@ -35,7 +35,7 @@ const MainContent = () => {
   return (
     <>
       <section className="flex flex-col space-y-6  h-auto relative">
-        <section className="absolute -left-48 top-1/2">
+        <section className="absolute -left-44 top-1/2">
           <span className="absolute text-xl -rotate-90 uppercase tracking-widest text-nowrap text-gray-400">
             Connect with us
           </span>
