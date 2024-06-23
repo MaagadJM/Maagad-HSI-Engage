@@ -5,7 +5,7 @@ const RFooter = () => {
 
       <section>
         Designed by:{" "}
-        <a href="https://www.facebook.com/judemichael.maagad.9" className="text-[#e4b61a]">
+        <a href="https://www.facebook.com/judemichael.maagad.9" className="text-[#e4b61a] hover:text-green-500">
           Jude Michael Daroya Maagad
         </a>
       </section>
